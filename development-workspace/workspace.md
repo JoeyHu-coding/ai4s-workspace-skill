@@ -1,4 +1,4 @@
-﻿# Workspace Manifest
+# Workspace Manifest
 
 Name: ai4science paper workspace skill
 Slug: 2026-04-27--ai4s-workspace-skill

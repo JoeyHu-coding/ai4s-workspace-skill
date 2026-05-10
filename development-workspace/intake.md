@@ -1,4 +1,4 @@
-﻿# Intake
+# Intake
 
 Objective:
 Create a dedicated skill for AI4Science academic paper workspace management.

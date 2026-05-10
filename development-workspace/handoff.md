@@ -1,4 +1,4 @@
-﻿# Handoff
+# Handoff
 
 Current status:
 ai4s-workspace skill has been created, validated, synced to runtime, revised to use the user's 11-part research workflow structure, and renamed to the shorter final name.

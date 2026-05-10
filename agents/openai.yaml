@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI4S Workspace"
+  short_description: "Manage AI-assisted research writing workspaces"
+  default_prompt: "Set up and manage an AI4Science paper workspace for literature, hypotheses, experiments, analysis, figures, drafting, review, and submission readiness."
